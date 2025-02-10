@@ -1,4 +1,3 @@
-# LAST UPDATE: 04/12/2024.
 # Importing datetime library we're able to work with dates and times.
 import datetime
 # datetime.datetime.now() is designed to return the current UTC date and time.
